@@ -13,6 +13,12 @@ Currently, two official plugins are available:
 
 ```
 npm i
+```
+One terminal:
+```
 npm run server
+```
+Another terminal:
+```
 npm run dev
 ```
