@@ -1,4 +1,5 @@
-# React + Vite
+# React <img src="https://github.com/dinno7/react-quiz-app/blob/master/public/logo512.png" width="40" height="40"> + Vite <img src="https://github.com/dinno7/react-quiz-app/blob/master/public/vite.svg" width="35" height="35">
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
